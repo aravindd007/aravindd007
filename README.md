@@ -46,17 +46,32 @@
 @@@@@@@@@@@@@@@@@&!. ....... .5&&#BY~~^^~~~!!~~~^^^^^^^^^^^^^^^^^~~^::^~~~~~~~^^^~~~~^^^^^
 @@@@@@@@@@@@@@@@5.............~YBB5~~!!!!7!!~~^^~~~~^^~~~~^^^^^^~~^^^^^~~~~~~~~~~~~~~~~^^^
 
+🔭 I’m currently working on
+
+XSS -  "><script>alert("ARAVIND")</script>
+
+SQLi - ' UNION SELECT 'ARAVIND | SECURITY ENGINEER',NULL--
+
+SSRF -  https://github.com/aravindd007/
+
+SSTI -  {{ "ARAVIND | SECURITY ENGINEER" }}
+
+IDOR -  /api/aravindd007/aravindd007
+
+XXE -  <!ENTITY researcher "ARAVIND | SECURITY ENGINEER">
+
+CRLF - %0d%0aX-Researcher:%20ARAVIND
+
+
+JWT - {"name":"ARAVIND","role":"SECURITY_ENGINEER"}
+
+Prototype Pollution - {"__proto__":{"researcher":"ARAVIND"}}
+
+Open Redirect -  https://www.linkedin.com/in/aravind--v/?from=linkdin
+
+Path Traversal - ../../ARAVIND_SECURITY_ENGINEER
+
 ```
-**aravindd007/aravindd007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
