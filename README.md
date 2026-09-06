@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ```
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -46,13 +44,13 @@
 @@@@@@@@@@@@@@@@@&!. ....... .5&&#BY~~^^~~~!!~~~^^^^^^^^^^^^^^^^^~~^::^~~~~~~~^^^~~~~^^^^^
 @@@@@@@@@@@@@@@@5.............~YBB5~~!!!!7!!~~^^~~~~^^~~~~^^^^^^~~^^^^^~~~~~~~~~~~~~~~~^^^
 
-🔭 I’m currently working on
+ABOUT ME
 
 XSS -  "><script>alert("ARAVIND")</script>
 
-SQLi - ' UNION SELECT 'ARAVIND | SECURITY ENGINEER',NULL--
+SQLi - ' UNION SELECT 'SECURITY | ENGINEER',NULL--
 
-SSRF -  https://github.com/aravindd007/
+SSRF -  https://tryhackme.com/p/Raptor97
 
 SSTI -  {{ "ARAVIND | SECURITY ENGINEER" }}
 
@@ -72,6 +70,3 @@ Open Redirect -  https://www.linkedin.com/in/aravind--v/?from=linkdin
 Path Traversal - ../../ARAVIND_SECURITY_ENGINEER
 
 ```
-
-Here are some ideas to get you started:
-
