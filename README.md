@@ -60,7 +60,6 @@ XXE -  <!ENTITY researcher "ARAVIND | SECURITY ENGINEER">
 
 CRLF - %0d%0aX-Researcher:%20ARAVIND
 
-
 JWT - {"name":"ARAVIND","role":"SECURITY_ENGINEER"}
 
 Prototype Pollution - {"__proto__":{"researcher":"ARAVIND"}}
