@@ -52,7 +52,7 @@ SQLi - ' UNION SELECT 'SECURITY | ENGINEER',NULL--
 
 SSRF -  https://tryhackme.com/p/Raptor97
 
-SSTI -  {{ "ARAVIND | SECURITY ENGINEER" }}
+SSTI -  {{ "2*2" }} 
 
 IDOR -  /api/aravindd007/aravindd007
 
