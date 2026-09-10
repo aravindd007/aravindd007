@@ -1,9 +1,9 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&width=435&lines=Security+Engineer;VAPT+Specialist;Penetration+Tester;Bug+Bounty+Hunter" alt="Typing SVG" />
-</div>
-
-<div align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Aravind;Welcome+to+my+profile;Bug+Bounty+Hunter;IoT+Security+Researcher;Vulnerability+Researcher;Recon+%7C+VAPT+%7C+Security"
+    alt="Typing SVG"
+  />
 </div>
 
 
