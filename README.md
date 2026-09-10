@@ -6,6 +6,11 @@
 <div align="center">
 </div>
 
+
+### SECURITY ENGINEER • VULNERABILITY RESEARCHER
+
+[ VAPT ] [ WEB & API ] [ IoT & FIRMWARE ] [ 3x CVE ]
+
 🔒 About Me
 
 I'm a Cybersecurity Engineer specializing in Vulnerability Assessment and Penetration Testing (VAPT) with hands-on experience in exploiting OWASP Top 10, Web, API and business logic flaws across enterprise application.
