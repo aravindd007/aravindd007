@@ -16,15 +16,15 @@ I'm a Cybersecurity Engineer specializing in Vulnerability Assessment and Penetr
 
 
 ```
-@@@@@@@@@@@@@@@@@@@@&&@@&@@@@@@@@@@@@@@@@@@@@@@@@@       XSS -  "><script>alert("ARAVIND")</script>
-@@@@@@@@@@@@@##GPGGGPBBBGGB#&@@@@@@@@@@@@@@@@@@@@@       SQLi - ' UNION SELECT 'SECURITY | ENGINEER',NULL--
-@@@@@@@@@@#BBGGGB#BBBBBBB#BBBBB#@@@@@@@@@@@@@@@@@@       SSRF -  https://tryhackme.com/p/Raptor97
-@@@@@@@@#GPB#&&&&&&&&#&&####BBBGB@@@@@@@@@@@@@@@@@       SSTI -  {{ "2*2" }} 
-@@@@@@@#B###&#BB###BBGB#&&&&&&&##B&@@@@@@@@@@@@@@@       IDOR -  /api/aravindd007/aravindd007
-@@@@@@@##&&#GY??JJJ?????JYY5B&&&&#G&@@@@@@@@@@@@@@       XXE -  <!ENTITY researcher "ARAVIND | SECURITY ENGINEER">
-@@@@@@@##&#5J77777!!77!!!~~!JG####B&@@@@@@@@@@@@@@       JWT - {"name":"ARAVIND","role":"SECURITY_ENGINEER"}
-@@@@@@@@#&BJ777777!!!!7!!~~!7YB###B&@@@@@@@@@@@@@@       Open Redirect -  https://www.linkedin.com/in/aravind--v/?from=linkdin  
-@@@@@@@@@&GJJJJ?77???Y55YJ!!~!5BB#@@@@@@@@@@@@@@@@       Path Traversal - ../../ARAVIND_SECURITY_ENGINEER
+@@@@@@@@@@@@@@@@@@@@&&@@&@@@@@@@@@@@@@@@@@@@@@@@@@     XSS -  "><script>alert("ARAVIND")</script>
+@@@@@@@@@@@@@##GPGGGPBBBGGB#&@@@@@@@@@@@@@@@@@@@@@     SQLi - ' UNION SELECT 'SECURITY | ENGINEER',NULL--
+@@@@@@@@@@#BBGGGB#BBBBBBB#BBBBB#@@@@@@@@@@@@@@@@@@     SSRF -  https://tryhackme.com/p/Raptor97
+@@@@@@@@#GPB#&&&&&&&&#&&####BBBGB@@@@@@@@@@@@@@@@@     SSTI -  {{ "2*2" }} 
+@@@@@@@#B###&#BB###BBGB#&&&&&&&##B&@@@@@@@@@@@@@@@     IDOR -  /api/aravindd007/aravindd007
+@@@@@@@##&&#GY??JJJ?????JYY5B&&&&#G&@@@@@@@@@@@@@@     XXE -  <!ENTITY researcher "ARAVIND | SECURITY ENGINEER">
+@@@@@@@##&#5J77777!!77!!!~~!JG####B&@@@@@@@@@@@@@@     JWT - {"name":"ARAVIND","role":"SECURITY_ENGINEER"}
+@@@@@@@@#&BJ777777!!!!7!!~~!7YB###B&@@@@@@@@@@@@@@     Open Redirect -  https://www.linkedin.com/in/aravind--v/?from=linkdin  
+@@@@@@@@@&GJJJJ?77???Y55YJ!!~!5BB#@@@@@@@@@@@@@@@@     Path Traversal - ../../ARAVIND_SECURITY_ENGINEER
 @@@@@@@@&GYYYPGP5YYY5GGGP5Y77!7JYY#@@@@@@@@@@@@@@@      
 @@@@@@@@#JYPGGBGG5?JYPPG5YJ7!!???!J@@@@@@@@@@@@@@@
 @@@@@@@@&Y??YYYY5?!!??JJ??7!!!7?J?P@@@@@@@@@@@@@@@
