@@ -6,15 +6,13 @@
   />
 </div>
 
+<h2>👨‍💻 WHOAMI </h2>
 
-### SECURITY ENGINEER • VULNERABILITY RESEARCHER
-
-[ VAPT ] [ WEB & API ] [ IoT & FIRMWARE ] [ 3x CVE ]
-
-🔒 About Me
+<h4> Security Engineer | Bug Bounty Hunter | 3x CVE | IOT Security </h4>
 
 I'm a Cybersecurity Engineer specializing in Vulnerability Assessment and Penetration Testing (VAPT) with hands-on experience in exploiting OWASP Top 10, Web, API and business logic flaws across enterprise application.
 
+<h2>🏆 HALL OF FAME & RECOGNITION </h2>
 
 ```
 @@@@@@@@@@@@@@@@@@@@&&@@&@@@@@@@@@@@@@@@@@@@@@@@@@       XSS -  "><script>alert("ARAVIND")</script>
