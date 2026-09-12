@@ -8,7 +8,7 @@
 
 <h2>👨‍💻 WHOAMI </h2>
 
-<h4> Security Engineer | Bug Bounty Hunter | IOT Security </h4>
+<h4> Security Engineer | Bug Bounty Hunter </h4>
 
 I'm a Cybersecurity Engineer specializing in Vulnerability Assessment and Penetration Testing (VAPT) with hands-on experience in exploiting OWASP Top 10, Web, API and business logic flaws across enterprise application.
 
